@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>490426232779-5erredh4f4n9cnf1daated8m1f9ffema.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAth3Lw7dzwVa1l0NhAbMdY7zqDchq1YYM</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lubtech</string>
+	<key>CLIENT_ID</key>
+	<string>490426232779-6mddfov9c3408sl93b1nq2eh9i4id20t.apps.googleusercontent.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>490426232779</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:490426232779:ios:bf66f705bb2a875c6a904e</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>lubbtech-27e55</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.490426232779-6mddfov9c3408sl93b1nq2eh9i4id20t</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lubbtech-27e55.appspot.com</string>
+</dict>
+</plist>

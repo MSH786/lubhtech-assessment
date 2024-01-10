@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490426232779",
+    "project_id": "lubbtech-27e55",
+    "storage_bucket": "lubbtech-27e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490426232779:android:5d58ff097a1f41ac6a904e",
+        "android_client_info": {
+          "package_name": "com.lubtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490426232779-5erredh4f4n9cnf1daated8m1f9ffema.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lubtech",
+            "certificate_hash": "ea106410353968b38c92f59eb342c595e773730f"
+          }
+        },
+        {
+          "client_id": "490426232779-pfqct1fsdl20ps9qsk5amb3l4f0nntue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVZZ8CKzJoyREWqTBihYlRMsyhBKwAfeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490426232779-pfqct1fsdl20ps9qsk5amb3l4f0nntue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
